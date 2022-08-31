@@ -7,3 +7,8 @@ ArrowUp - Moves the seahorse up
 ArrowDown - Moves the seahorse down
 Spacebar - Makes seahorse shoot projectiles.
 D - Enter debug mode.
+
+To win the game, you must score 120 points in 45 seconds.
+
+You may play the game at:
+https://dpk-916.github.io/javascript-shooter-game/https://dpk-916.github.io/javascript-shooter-game/
